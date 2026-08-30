@@ -1,6 +1,6 @@
 # Ghastly Grab
 
-This project was made for the 'Game Design' module in the first year as a team project.
+This project was made for the 'Game Design' module in the first year as a team project. It was made in C++ using the SFML Library.
 
 ## Pictures
 <img width="1345" height="1070" alt="image" src="https://github.com/user-attachments/assets/dd46e009-847d-422e-8819-20a3e43e69ab" />
