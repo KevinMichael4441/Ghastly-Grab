@@ -14,5 +14,5 @@ This project was made for the 'Game Design' module in the first year as a team p
 
 
 
-## Gameplay Video (YouTube Link)
+## Gameplay Video (YouTube Link) (Click on the image to redirect)
 [![Ghastly Grab Gameplay Video](https://github.com/user-attachments/assets/dd46e009-847d-422e-8819-20a3e43e69ab)](https://www.youtube.com/watch?v=Lpe4zJwd1KQ)
